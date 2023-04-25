@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @jtdub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in:
+     - All things network automation
+     - Python
+     - Anthropology
+- 🌱 I’m currently learning
+     - Anthropology
+     - Spanish
+     - Golang
+     - iOS App Development
+- 📫 How to reach me @jtdub on **[networktocode.slack.com](https://networktocode.slack.com)**.
 
 <!---
 jtdub/jtdub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
