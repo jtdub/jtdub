@@ -9,6 +9,7 @@
      - Anthropology
      - Spanish
      - Golang
+     - Swift
      - iOS App Development
 - 📫 How to reach me @jtdub on **[networktocode.slack.com](https://networktocode.slack.com)**.
 
