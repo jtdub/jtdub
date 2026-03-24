@@ -1,20 +1,37 @@
-![jtdub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtdub&count_private=true&show_icons=true)
+![jtdub’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jtdub&count_private=true&show_icons=true)
 
-- 👋 Hi, I’m @jtdub
-- 👀 I’m interested in:
-     - All things network automation
-     - Python
-     - Anthropology
-- 🌱 I’m currently learning
-     - Anthropology
-     - Spanish
-     - Golang
-     - Swift
-     - iOS App Development
-- 📫 How to reach me @jtdub on **[networktocode.slack.com](https://networktocode.slack.com)**.
+### Hi, I’m @jtdub 👋
 
+Network automation engineer, iOS developer, and anthropology student with a passion for building tools that bridge technology and research.
 
-<!---
-jtdub/jtdub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### What I do
+
+- **Network Automation & NetDevOps** — Building and extending the [Nautobot](https://github.com/nautobot/nautobot) ecosystem with apps for config compliance, device migration, YANG models, infrastructure services, and more. Deep experience with NETCONF/YANG, Ansible, Containerlab, and network programmability.
+- **iOS App Development** — Actively developing Swift apps including Hearth AI, Ayllu (a field research companion), Expedition Planning, and AMS Eval.
+- **AI & Automation** — Building AI-powered tools and agents, including LLM-based research utilities and automation platforms.
+- **Anthropology & Archaeological Research** — Studying anthropology at SNHU. Conducting archaeological survey work in the Cordillera Vilcanota region of Peru, with a focus on high-altitude sites like Sibinacocha. Maintaining [rockartdb](https://github.com/jtdub/rockartdb) and related research tools.
+- **Environmental Monitoring** — Water quality data analysis and monitoring tools.
+
+#### Languages & Technologies
+
+`Python` `Swift` `Rust` `Go` `C` `eBPF` `TypeScript` `HTML/CSS`
+
+`Nautobot` `Django` `Ansible` `Docker` `Containerlab` `NETCONF/YANG`
+
+#### Currently learning
+
+- Rust, C, and eBPF (as a Python developer branching out)
+- Advanced iOS development with Swift
+- Anthropology coursework (SNHU)
+- Spanish & Quechua
+
+#### Other interests
+
+- Technical diving & closed-circuit rebreathers
+- Drone programming & ML-based image classification
+- Machine learning applications
+
+#### Get in touch
+
+- **Web**: [jtdub.com](https://jtdub.com)
+- **Slack**: @jtdub on [networktocode.slack.com](https://networktocode.slack.com)
