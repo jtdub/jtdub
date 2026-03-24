@@ -2,7 +2,7 @@
 
 ### Hi, I’m @jtdub 👋
 
-Network automation engineer, iOS developer, and anthropology student with a passion for building tools that bridge technology and research.
+Software engineer, iOS developer, and anthropology student with a passion for building tools that bridge technology and research.
 
 #### What I do
 
