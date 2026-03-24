@@ -6,7 +6,7 @@ Software engineer, iOS developer, and anthropology student with a passion for bu
 
 #### What I do
 
-- **Network Automation & NetDevOps** — Building and extending the [Nautobot](https://github.com/nautobot/nautobot) ecosystem with apps for config compliance, device migration, YANG models, infrastructure services, and more. Deep experience with NETCONF/YANG, Ansible, Containerlab, and network programmability.
+- **Network Automation & NetDevOps** — Building and extending the [Nautobot](https://github.com/nautobot/nautobot) ecosystem with apps for config compliance, device migration, infrastructure services, and more. Deep experience with Ansible, Docker, and network programmability.
 - **iOS App Development** — Actively developing Swift apps including Hearth AI, Ayllu (a field research companion), Expedition Planning, and AMS Eval.
 - **AI & Automation** — Building AI-powered tools and agents, including LLM-based research utilities and automation platforms.
 - **Anthropology & Archaeological Research** — Studying anthropology at SNHU. Conducting archaeological survey work in the Cordillera Vilcanota region of Peru, with a focus on high-altitude sites like Sibinacocha. Maintaining [rockartdb](https://github.com/jtdub/rockartdb) and related research tools.
@@ -14,13 +14,13 @@ Software engineer, iOS developer, and anthropology student with a passion for bu
 
 #### Languages & Technologies
 
-`Python` `Swift` `Rust` `Go` `C` `eBPF` `TypeScript` `HTML/CSS`
+`Python` `Swift` `Go` `C` `eBPF` `HTML/CSS`
 
-`Nautobot` `Django` `Ansible` `Docker` `Containerlab` `NETCONF/YANG`
+`Nautobot` `Django` `Ansible` `Docker`
 
 #### Currently learning
 
-- Rust, C, and eBPF (as a Python developer branching out)
+- C and eBPF (as a Python developer branching out)
 - Advanced iOS development with Swift
 - Anthropology coursework (SNHU)
 - Spanish & Quechua
