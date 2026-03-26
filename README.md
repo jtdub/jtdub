@@ -21,7 +21,7 @@ Software engineer, iOS developer, and anthropology student with a passion for bu
 #### Currently learning
 
 - C and eBPF (as a Python developer branching out)
-- Advanced iOS development with Swift
+- iOS development with Swift
 - Anthropology coursework (SNHU)
 - Spanish & Quechua
 
