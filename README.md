@@ -2,14 +2,14 @@
 
 ### Hi, I’m @jtdub 👋
 
-Software engineer, iOS developer, and anthropology student with a passion for building tools that bridge technology and research.
+Network Software Engineer by profession. Anthropologist by education. Explorer and wanderer at heart. Curious by nature.
 
 #### What I do
 
 - **Network Automation & NetDevOps** — Building and extending the [Nautobot](https://github.com/nautobot/nautobot) ecosystem with apps for config compliance, device migration, infrastructure services, and more. Deep experience with Ansible, Docker, and network programmability.
 - **iOS App Development** — Actively developing Swift apps including Hearth AI, Ayllu (a field research companion), Expedition Planning, and AMS Eval.
 - **AI & Automation** — Building AI-powered tools and agents, including LLM-based research utilities and automation platforms.
-- **Anthropology & Archaeological Research** — Studying anthropology at SNHU. Conducting archaeological survey work in the Cordillera Vilcanota region of Peru, with a focus on high-altitude sites like Sibinacocha. Maintaining [rockartdb](https://github.com/jtdub/rockartdb) and related research tools.
+- **Anthropology & Archaeological Research** — Student of Anthropology. Conducting archaeological survey work in the Cordillera Vilcanota region of Peru, with a focus on high-altitude sites like Sibinacocha. Maintaining [rockartdb](https://github.com/jtdub/rockartdb) and related research tools.
 - **Environmental Monitoring** — Water quality data analysis and monitoring tools.
 
 #### Languages & Technologies
@@ -22,7 +22,7 @@ Software engineer, iOS developer, and anthropology student with a passion for bu
 
 - C and eBPF (as a Python developer branching out)
 - iOS development with Swift
-- Anthropology coursework (SNHU)
+- Anthropology
 - Spanish & Quechua
 
 #### Other interests
