@@ -9,7 +9,7 @@ Network Software Engineer by profession. Anthropologist by education. Explorer a
 - **Network Automation & NetDevOps** — Building and extending the [Nautobot](https://github.com/nautobot/nautobot) ecosystem with apps for config compliance, device migration, infrastructure services, and more. Deep experience with Ansible, Docker, and network programmability.
 - **iOS App Development** — Actively developing Swift apps including Hearth AI, Ayllu (a field research companion), Expedition Planning, and AMS Eval.
 - **AI & Automation** — Building AI-powered tools and agents, including LLM-based research utilities and automation platforms.
-- **Anthropology & Archaeological Research** — Student of Anthropology. Conducting archaeological survey work in the Cordillera Vilcanota region of Peru, with a focus on high-altitude sites like Sibinacocha. Maintaining [rockartdb](https://github.com/jtdub/rockartdb) and related research tools.
+- **Anthropology & Archaeological Research** — Student of Anthropology. Conducting archaeological survey work in the Cordillera Vilcanota region of Peru, with a focus on high-altitude sites like Sibinacocha.
 - **Environmental Monitoring** — Water quality data analysis and monitoring tools.
 
 #### Languages & Technologies
