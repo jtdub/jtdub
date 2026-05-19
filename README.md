@@ -1,5 +1,3 @@
-![jtdub’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jtdub&count_private=true&show_icons=true)
-
 ### Hi, I’m @jtdub 👋
 
 Network Software Engineer by profession. Anthropologist by education. Explorer and wanderer at heart. Curious by nature.
